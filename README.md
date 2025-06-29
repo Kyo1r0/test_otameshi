@@ -6,26 +6,26 @@
 
 |   回数    | 内容                               |                             教材                              |                        実施日                        |  担当者   |  場所   |                                   備考                                    |
 | :-------: | :--------------------------------- | :-----------------------------------------------------------: | :--------------------------------------------------: | :-------: | :-----: | :-----------------------------------------------------------------------: |
-|  第 1 回  | Python 基礎                        |           [python-basic](./materials/python-basic/)           |                 2023 年 12 月 11 日                  | @kitatai  |    -    |                                     -                                     |
-|  第 2 回  | Python で ChatGPT とお話しする     |          [python-openai](./materials/python-openai/)          |                 2023 年 12 月 18 日                  | @kitatai  |    -    |                                     -                                     |
-|  第 3 回  | マークダウンで文書を作る           |         [markdown-basic](./materials/markdown-basic/)         |                 2023 年 12 月 25 日                  |   @gae    |    -    |                                     -                                     |
-|  第 4 回  | サーバを建てる 〜atlas の復活〜    |          [atlas-revival](./materials/atlas-revival)           |                  2024 年 1 月 21 日                  |  @tsuji   |    -    |                                     -                                     |
-| 第 5-7 回 | Unity でスイカゲーム               |       [unity-watermelon](./materials/unity-watermelon/)       |                  2024 年 5 月 8 日~                  | @kitatai  |    -    |                                     -                                     |
+|  第 1 回  | Python 基礎                        |           [python-basic](./materials/python-basic/)           |                 2023 年 12 月 11 日                  |  |    -    |                                     -                                     |
+|  第 2 回  | Python で ChatGPT とお話しする     |          [python-openai](./materials/python-openai/)          |                 2023 年 12 月 18 日                  | @  |    -    |                                     -                                     |
+|  第 3 回  | マークダウンで文書を作る           |         [markdown-basic](./materials/markdown-basic/)         |                 2023 年 12 月 25 日                  |   @  |    -    |                                     -                                     |
+|  第 4 回  | サーバを建てる 〜atlas の復活〜    |          [atlas-revival](./materials/atlas-revival)           |                  2024 年 1 月 21 日                  |  @  |    -    |                                     -                                     |
+| 第 5-7 回 | Unity でスイカゲーム               |       [unity-watermelon](./materials/unity-watermelon/)       |                  2024 年 5 月 8 日~                  | @  |    -    |                                     -                                     |
 |  第 8 回  | CTF を始めよう！                   | [教材](https://gitlab.mma.club.uec.ac.jp/shiragi/ctf-seminar) | 2024 年 5 月 29 日 18:00<br>2024 年 5 月 31 日 17:00 | @shiragi  | 新 C403 |                                     -                                     |
-|  第 9 回  | Python で始める競技プログラミング  |           [start-kyopro](./materials/start-kyopro/)           |               2024 年 6 月 10 日 17:30               | @pgm_udon | 新 C403 | Python の基本(新入生講習でやった事レベル)が分かっていることが参加条件です |
-| 第 10 回  | 競技プログラミング 中級者への道    |       [kyopro-algorithm](./materials/kyopro-algorithm/)       | 2024 年 6 月 13 日 17:00<br>2024 年 6 月 20 日 17:00 | @dyktr_06 |  未定   |                                     -                                     |
-| 第 11 回  | Astro でサイトを作ろう             |            [astro-basic](./materials/astro-basic/)            |                  2024 年 6 月 27 日                  |  @namor   | 新 C403 |                                     -                                     |
-| 第 12 回  | スクレイピングでデータを取得しよう |         [scraping-basic](./materials/scraping-basic/)         |                  2024 年 11 月 4 日                  |   @gae    | 新 C203 |                                     -                                     |
+|  第 9 回  | Python で始める競技プログラミング  |           [start-kyopro](./materials/start-kyopro/)           |               2024 年 6 月 10 日 17:30               | @| 新 C403 | Python の基本(新入生講習でやった事レベル)が分かっていることが参加条件です |
+| 第 10 回  | 競技プログラミング 中級者への道    |       [kyopro-algorithm](./materials/kyopro-algorithm/)       | 2024 年 6 月 13 日 17:00<br>2024 年 6 月 20 日 17:00 | @|  未定   |                                     -                                     |
+| 第 11 回  | Astro でサイトを作ろう             |            [astro-basic](./materials/astro-basic/)            |                  2024 年 6 月 27 日                  |  @  | 新 C403 |                                     -                                     |
+| 第 12 回  | スクレイピングでデータを取得しよう |         [scraping-basic](./materials/scraping-basic/)         |                  2024 年 11 月 4 日                  |   @ | 新 C203 |                                     -                                     |
 
 ### 今後開催するかもしれないもの
 
 | 内容                                                 | 作成 |  担当者  |
 | :--------------------------------------------------- | :--: | :------: |
-| Slack アプリを開かずにメッセージを送る               |  未  | @kitatai |
-| Google スプレッドシートを JavaScript で操る          |  未  | @kitatai |
-| Slack でボットもどき                                 |  未  | @kitatai |
-| 綺麗なグラフや図を書く                               |  未  |  @tsuji  |
-| マークダウンのスライドにオリジナルのデザインを入れる |  未  |   @gae   |
+| Slack アプリを開かずにメッセージを送る               |  未  | @|
+| Google スプレッドシートを JavaScript で操る          |  未  | @ |
+| Slack でボットもどき                                 |  未  | @|
+| 綺麗なグラフや図を書く                               |  未  |  @|
+| マークダウンのスライドにオリジナルのデザインを入れる |  未  |   @  |
 
 ## 教材
 
