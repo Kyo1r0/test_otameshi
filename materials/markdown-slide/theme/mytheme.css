@@ -1,0 +1,23 @@
+/* @theme mytheme */
+
+@import 'default';
+
+section {
+    color: #000;
+    padding: 2rem;
+    border-radius: 0.5rem;
+}
+
+header {
+    color: #ccc;
+    font-size: 0.5em;
+    font-weight: 600;
+    top: 0.3rem;
+}
+
+footer {
+    color: #ccc;
+    font-size: 0.5em;
+    font-weight: 500;
+    bottom: -0.5%;
+}
